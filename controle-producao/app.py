@@ -1,3 +1,20 @@
+#
+# Controle de Produção
+#
+# Copyright (c) 2025 Sal e Cia
+#
+# Este trabalho está licenciado sob a Creative Commons Atribuição-NãoComercial 4.0 Internacional.
+# Para ver uma cópia desta licença, visite: https://creativecommons.org/licenses/by-nc/4.0/
+#
+# Você é livre para: Compartilhar e Adaptar, sob as condições de Atribuição e Não Comercial.
+#
+# O software é fornecido "como está", sem garantia de qualquer tipo, expressa ou implícita,
+# incluindo, mas não se limitando a, garantias de comercialização, adequação a uma finalidade específica
+# e não infração. Em nenhum caso os autores ou detentores dos direitos autorais serão responsáveis
+# por qualquer reclamação, danos ou outra responsabilidade, seja em uma ação de contrato, ato ilícito
+# ou de outra forma, decorrentes de, ou em conexão com o software ou o uso ou outras negociações no software.
+#
+
 import streamlit as st
 from backend import carregar, cadastrar, listar, atualizar, excluir, listar_por_tipo
 
