@@ -15,7 +15,6 @@
 # ou de outra forma, decorrentes de, ou em conexão com o software ou o uso ou outras negociações no software.
 #
 
-
 import csv
 
 ARQUIVO_CSV = 'produtos.csv'
